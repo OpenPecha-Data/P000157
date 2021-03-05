@@ -1,15 +1,17 @@
-ebook_metadata:
+id: P000157
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །བྱང་ཆུབ་ཀྱི་སྤྱོད་པ་ལ་འཇུག་པའི་རྣམ་པར་བཤད་པ་དགོངས་པ་ངེས་པར་གསལ་བ་ཞེས་བྱ་བ་བཞུགས་སོ།
     །
   authors:
   - མཛད་པ་པོ། བླ་མ་དམ་པ་བསོོད་ནམས་རྒྱལ་མཚན།
-  sku: IBA-SG-02-1
   layers:
   - book_title
   - author
   - quotation
   - sabche
   - yigchung
+  id: IBA-SG-02-1
 web_metadata:
   title:
     en: Brilliant Intention:An Explanation of the Bodhicharyavatara
